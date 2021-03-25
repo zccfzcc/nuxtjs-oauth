@@ -1,0 +1,23 @@
+[
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "/workspaces/nuxtjs/nuxtjs-oauth/pages/inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_1f61ea0e"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/workspaces/nuxtjs/nuxtjs-oauth/pages/login.vue",
+    "chunkName": "pages/login",
+    "_name": "_48c2c470"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/workspaces/nuxtjs/nuxtjs-oauth/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_11f6fab1"
+  }
+]

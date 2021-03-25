@@ -1,0 +1,1 @@
+export default {"theme":{"light":true,"breakpoint":{"scrollBarWidth":16,"thresholds":{"xs":600,"sm":960,"md":1280,"lg":1920}},"themes":{"dark":{"primary":"#1976d2","accent":"#424242","secondary":"#ff8f00","info":"#26a69a","warning":"#ffc107","error":"#dd2c00","success":"#00e676"}}}}
